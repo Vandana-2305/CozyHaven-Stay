@@ -1,0 +1,25 @@
+# React
+**/node_modules/
+**/build/
+**/dist/
+
+# .NET generated files
+**/bin/
+**/obj/
+
+# Logs
+**/Logs/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+
+# IDE files
+.vs/
+.idea/
+
+# Project structure listing
+project_structure.txt
